@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34" started-at="2020-03-09T22:09:20Z" finished-at="2020-03-09T22:09:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34" started-at="2020-03-09T22:09:20Z" finished-at="2020-03-09T22:09:20Z">
+      <class name="com.qa.test.DemoTest">
+        <test-method status="PASS" signature="add()[pri:0, instance:com.qa.test.DemoTest@402f32ff]" name="add" duration-ms="10" started-at="2020-03-09T15:09:20Z" finished-at="2020-03-09T15:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.test.DemoTest@402f32ff]" name="div" duration-ms="1" started-at="2020-03-09T15:09:20Z" finished-at="2020-03-09T15:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.test.DemoTest@402f32ff]" name="mul" duration-ms="1" started-at="2020-03-09T15:09:20Z" finished-at="2020-03-09T15:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.test.DemoTest@402f32ff]" name="sub" duration-ms="1" started-at="2020-03-09T15:09:20Z" finished-at="2020-03-09T15:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.qa.test.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
